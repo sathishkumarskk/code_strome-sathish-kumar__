@@ -1,0 +1,6 @@
+{
+  "name": "Vendora AI — Enterprise Vendor Invoice Auditor",
+  "description": "Continuous autonomous validation of supplier claims against verified Purchase Orders, deterministic settlement enforcement, and AI-powered entity extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
